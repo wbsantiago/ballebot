@@ -1,0 +1,12 @@
+httpswww.youtube.comwatchv=llF6vD-RljE
+
+https://www.figma.com/file/myqP66iQwzjwjrIAJyyrip/BalleBot?node-id=2%3A2
+
+https://fonts.google.com/specimen/Sarala?query=sarala
+
+
+
+CSS rules to specify families:
+
+font-family: 'Righteous', cursive;
+font-family: 'Sarala', sans-serif;
